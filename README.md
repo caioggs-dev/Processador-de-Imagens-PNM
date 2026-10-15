@@ -12,6 +12,11 @@ P3 = colorida) e aplica filtros por meio de um menu no terminal.
 7. Sobel (detecção de bordas)
 8. Converter para tons de cinza
 9. Pixelizar (efeito retrô)
+## Exemplos
+
+| Original | Tons de cinza | Sobel |
+|---|---|---|
+| ![Original](imagens/buda-original.png) | ![Tons de cinza](imagens/buda-cinza.png) | ![Sobel](imagens/buda-sobel.png) |
 
 ## Como compilar e executar
 g++ processador.cpp -o processador
