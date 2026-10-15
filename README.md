@@ -14,8 +14,8 @@ P3 = colorida) e aplica filtros por meio de um menu no terminal.
 9. Pixelizar (efeito retrô)
 
 ## Como compilar e executar
-g++ trabalho2.cpp -o processador
-./processador
+g++ processador.cpp -o processador
+./processadorr
 
 Informe o nome do arquivo de entrada (.pnm), aplique quantos filtros
 quiser e use a opção 0 para salvar o resultado.
